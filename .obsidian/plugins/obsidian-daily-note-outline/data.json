@@ -1,0 +1,79 @@
+{
+  "initialSearchType": "backward",
+  "offset": 7,
+  "onset": "2020-03-30",
+  "duration": 14,
+  "showElements": {
+    "heading": true,
+    "link": true,
+    "tag": true,
+    "listItems": true
+  },
+  "headingLevel": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "allRootItems": true,
+  "allTasks": true,
+  "taskOnly": false,
+  "hideCompletedTasks": false,
+  "displayFileInfo": "days",
+  "viewPosition": "right",
+  "wordsToIgnore": {
+    "heading": [],
+    "link": [],
+    "tag": [],
+    "listItems": []
+  },
+  "inlinePreview": true,
+  "tooltipPreview": true,
+  "tooltipPreviewDirection": "left",
+  "includeOnly": "none",
+  "wordsToInclude": [],
+  "includeBeginning": true,
+  "primeElement": "none",
+  "wordsToExclude": {
+    "heading": [],
+    "link": [],
+    "tag": [],
+    "listItems": []
+  },
+  "wordsToExtract": "",
+  "icon": {
+    "heading": "none",
+    "link": "link",
+    "tag": "tag",
+    "listItems": "list",
+    "note": "file",
+    "task": "square",
+    "taskDone": "check-square"
+  },
+  "customIcon": {
+    "heading": "hash",
+    "link": "link",
+    "tag": "tag",
+    "listItems": "list",
+    "note": "file",
+    "task": "square",
+    "taskDone": "check-square"
+  },
+  "indent": {
+    "heading": true,
+    "link": true,
+    "listItems": true
+  },
+  "prefix": {
+    "heading": "",
+    "link": "",
+    "tag": "",
+    "listItems": "",
+    "task": "",
+    "taskDone": ""
+  },
+  "repeatHeadingPrefix": "none",
+  "addCheckboxText": false
+}

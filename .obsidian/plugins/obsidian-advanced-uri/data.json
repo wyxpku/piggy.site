@@ -1,0 +1,17 @@
+{
+  "openFileOnWrite": true,
+  "openDailyInNewPane": true,
+  "openFileOnWriteInNewPane": true,
+  "openFileWithoutWriteInNewPane": true,
+  "idField": "uid",
+  "useUID": true,
+  "addFilepathWhenUsingUID": false,
+  "allowEval": true,
+  "regex": {},
+  "lineRegex": {},
+  "linkRegex": {},
+  "linkLineRegex": {},
+  "imageRegex": {},
+  "shouldReplaceSelection": false,
+  "enhanceDefaultPaste": true
+}

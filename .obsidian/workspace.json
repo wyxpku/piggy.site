@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "3bbafcddc5676ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f99f91ba4440d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0997e125ae6103c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/About Sources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3dd4e8fbf886eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "987dbc5670d8f4fa",
+        "type": "tabs",
+        "dimension": 63.92785571142284,
+        "children": [
+          {
+            "id": "a4d1994dfc9f1870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce044dedd57e8849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#命令行工具",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ea8d6f6779182a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f3b2b13fce3d6c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "92910ae8836a7b22",
+        "type": "tabs",
+        "dimension": 36.07214428857716,
+        "children": [
+          {
+            "id": "46ac18e336e17ae3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sources/About Sources.md"
+              }
+            }
+          },
+          {
+            "id": "853ef9e400d6f719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sources/About Sources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401ecf6c95e31916",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sources/About Sources.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "687dfb8cd0c53082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/About Sources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "c718ea3b78af998f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be27f7b16e203e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4e039d034accd93",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0de590f20de8ad3c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "46ac18e336e17ae3",
+  "lastOpenFiles": [
+    "Sources/GPTchats/202331114835.md",
+    "ReadItLater Inbox/派评  近期值得关注的 App - 少数派.md",
+    "Calendar/Daily notes/2023-03-14.md",
+    "README.md",
+    "Sources/GPTchats/202331220519.md",
+    "Spaces/3-Resource/王者荣耀/项羽.md",
+    "Cards/永久笔记/tldr.md",
+    "Calendar/Daily notes/2023-03-01.md",
+    "Calendar/Daily notes/2023-03-02.md",
+    "Calendar/Daily notes/Daily notes归档/2023/2023-01-02.md",
+    "Calendar/Daily notes/∑ DB - 每日日志.md",
+    "Cards/永久笔记/ZTD.md",
+    "Cards/永久笔记/按照目标客户群，分为供应链生意和潮牌生意.md",
+    "Cards/永久笔记/2023年共享充电宝在没有铺设的地方，还是不是好生意.md",
+    "Cards/永久笔记/想要高效地工作，可以遵循的一些原则.md",
+    "Sources/Movies + TV/豆瓣影音导入/气球.md",
+    "Sources/Books/微信读书同步/精品小说/朝闻道-刘慈欣.md",
+    "Sources/Movies + TV/豆瓣影音导入/“大”人物.md",
+    "Cards/永久笔记/笔记系统构建原则.md",
+    "AboutTheGarden.md",
+    "🧰 本库指南/Tutorials/本库设计哲学及理念.md",
+    "HOMEPAGE.md",
+    "Cards/永久笔记/git submodule.md",
+    "Sources/Movies + TV/豆瓣影音导入/火口的两人火口.md",
+    "Sources/Movies + TV/豆瓣影音导入/洗冤录洗冤錄.md",
+    "Sources/Movies + TV/豆瓣影音导入/我们与恶的距离我們與惡的距離.md",
+    "Extras/Templates/textgenerator模板/prompts/自建",
+    "Extras/Media/Pasted image 20230312131834.png",
+    "Atlas/Canvas/九宫格.canvas",
+    "Atlas/Canvas/SWOT分析 - 模板.canvas",
+    "Atlas/Draws/白板 2023-03-11.dark.svg",
+    "Atlas/Draws/白板 2023-03-11.light.svg",
+    "Atlas/Canvas/SWOT分析 - 模板 1.canvas",
+    "Atlas/思维导图",
+    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "Extras/Templates/Canvas模板",
+    "Sources/GPTchats",
+    "Extras/Templates/ChatGPT_MD/templates",
+    "Extras/Templates/ChatGPT_MD",
+    "Atlas/Canvas/减脂塑型金字塔.canvas",
+    "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
+    "Atlas/Canvas/🧩 golang roadmap 路线图.canvas",
+    "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
+    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "ReadItLater Inbox",
+    "Omnivore/2023-02-20",
+    "Omnivore",
+    "Spaces/1-Project/OpenAI 官方文档阅读笔记",
+    "Extras/Media/Pasted image 20230305122456.png",
+    "Extras/Media/Pasted image 20230305120820.png",
+    "Atlas/Draws/README 中的头图 - 图.svg",
+    "Extras/Media/weread_image_1067883451661727.jpeg",
+    "Atlas/Draws/数字时代如何更好地工作与生活 - 图.svg",
+    "Extras/Media/v2-0b821715f5e9eb09a79b03d80671de44.jpeg"
+  ]
+}
